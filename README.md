@@ -16,3 +16,7 @@ Original data can be found on OSF (Link will be provided after manuscript accept
 The MATLAB-files should be run on Matlab2023b as they require the piechart function.
 The Python files for the unspecific effects analysis should be run in the order given. They each contain several steps that can also be run separately.
 In all code files one should change the raw_path to the actual folder where the user stored the raw data and (if necessary) give some paths where to store results.
+
+## Preprint
+
+The corresponding manuscript can be found on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.14.571694v1 "bioRxiv").
